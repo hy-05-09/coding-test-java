@@ -1,5 +1,5 @@
 /*
- * [Programmers][Level 1] - 유연근무제 (simulation)
+ * [Programmers][Level 1] - 유연근무제 
  * Tag: 2025 프로그래머스 코드챌린지 1차 예선
  * Link: https://school.programmers.co.kr/learn/courses/30/lessons/388351
  
