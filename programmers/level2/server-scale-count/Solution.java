@@ -1,6 +1,6 @@
 /*
  * [Programmers][level2] - 서버 증설 횟수
- * Tag: 2025 프로그래머스 코드챌린지 차 예선
+ * Tag: 2025 프로그래머스 코드챌린지 2차 예선
  * Link: https://school.programmers.co.kr/learn/courses/30/lessons/389479
  * 
  * Idea:
