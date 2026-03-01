@@ -24,7 +24,7 @@
  * - 이 문제는 단조 스택(monotonic stack)으로 O(n)에 최적화 가능하지만,
  *   본 코드는 브루트포스 기반 + 일부 재사용 최적화로 작성됨.
  */
-class Solution {
+class Solution_BruteForce {
     public int[] solution(int[] numbers) {
         int[] answer = new int[numbers.length];
         int max=-1;
